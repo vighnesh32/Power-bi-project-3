@@ -1,5 +1,5 @@
 Description of the files
-1. Power BI file by name 'siemens_vis'. This file has an extension .pbix. It contains the visualisation of the train fleet 
+1. Power BI file by name 'visualisation'. This file has an extension .pbix. It contains the visualisation of the train fleet 
 2. File name 'page1'. This file is the image file. This file has an extension .png.It contains the image of the first page of the visualisation.
 3. File name 'page2'. This file is the image file. This file has an extension .png.It contains the image of the second page of the visualisation.
 4. Python file by the name 'DataPreparation'. This file has an extension of .py. It contains the program used to clean the dataset provided.
